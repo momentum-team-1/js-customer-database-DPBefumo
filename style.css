@@ -1,11 +1,11 @@
-/* * {
-    outline: 5px solid hotpink;
-    background-color: aqua;
+* {
+    font-family: 'Bebas Neue', cursive;
 }
 
-.customer-grid {
+.customer{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     text-align: center;
-} */
+}
